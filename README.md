@@ -1,3 +1,5 @@
+Dictionary App - created with React and Material UI, consumes unofficial google dictionary API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
